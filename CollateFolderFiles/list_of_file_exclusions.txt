@@ -1,0 +1,3 @@
+All
+Extract.bat
+list_of_file_exclusions.txt
